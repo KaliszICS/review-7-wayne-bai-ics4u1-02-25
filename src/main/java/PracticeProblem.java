@@ -14,12 +14,12 @@ public class PracticeProblem {
 
 	public static int fartherFromZero(int arg) {
 		if (arg > 0) {
-			return arg - 1;
+			return arg + 5;
 		} 
 		else if (arg < 0) {
-			return arg + 1;
+			return arg - 5;
 		} else {
-			return arg;
+			return 0;
 		}
 	}
 
