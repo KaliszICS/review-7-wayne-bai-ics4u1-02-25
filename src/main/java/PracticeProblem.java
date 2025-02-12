@@ -21,7 +21,6 @@ public class PracticeProblem {
 		} else {
 			return arg;
 		}
-		}
 	}
 
 	public static String isFive(int arg) {
